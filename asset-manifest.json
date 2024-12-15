@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/service-workflow/static/css/main.0f45804c.css",
-    "main.js": "/service-workflow/static/js/main.a4d49718.js",
-    "static/js/488.08479c22.chunk.js": "/service-workflow/static/js/488.08479c22.chunk.js",
-    "index.html": "/service-workflow/index.html",
-    "main.0f45804c.css.map": "/service-workflow/static/css/main.0f45804c.css.map",
-    "main.a4d49718.js.map": "/service-workflow/static/js/main.a4d49718.js.map",
-    "488.08479c22.chunk.js.map": "/service-workflow/static/js/488.08479c22.chunk.js.map"
+    "main.css": "/SalonServicePricing/static/css/main.0f45804c.css",
+    "main.js": "/SalonServicePricing/static/js/main.c3efc568.js",
+    "static/js/488.08479c22.chunk.js": "/SalonServicePricing/static/js/488.08479c22.chunk.js",
+    "index.html": "/SalonServicePricing/index.html",
+    "main.0f45804c.css.map": "/SalonServicePricing/static/css/main.0f45804c.css.map",
+    "main.c3efc568.js.map": "/SalonServicePricing/static/js/main.c3efc568.js.map",
+    "488.08479c22.chunk.js.map": "/SalonServicePricing/static/js/488.08479c22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f45804c.css",
-    "static/js/main.a4d49718.js"
+    "static/js/main.c3efc568.js"
   ]
 }
